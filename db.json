@@ -11,8 +11,8 @@
       "body": "css is ..."
     },
     {
-      "title": "nextjs",
-      "body": "nextjs is ...",
+      "title": "Nextjs",
+      "body": "Nextjs is ...",
       "id": 3
     },
     {
@@ -24,16 +24,6 @@
       "title": "typescript",
       "body": "typescript is ...",
       "id": 5
-    },
-    {
-      "title": "react",
-      "body": "react is ...",
-      "id": 6
-    },
-    {
-      "title": "react native",
-      "body": "react native is ...",
-      "id": 7
     }
   ],
   "posts": [
