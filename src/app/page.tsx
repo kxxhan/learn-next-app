@@ -1,5 +1,10 @@
-import Image from "next/image";
-
 export default function Home() {
-  return <>Hello, Next!</>;
+  return (
+    <>
+      <h2>Welcome!</h2>
+      Hello, Next!
+      <br></br>
+      {/* <img src="/profile.jpeg" alt=""></img> */}
+    </>
+  );
 }
